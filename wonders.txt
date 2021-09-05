@@ -1,0 +1,8 @@
+NAME,LAT,LON,IMAGE,INFO
+Taj Mahal,27.1751,78.0421,images/r_taj_mahal.jpg,https://en.wikipedia.org/wiki/Taj_Mahal
+Great Wall of China,40.4319,116.5704,images/r_wall_of_china.jpg,https://en.wikipedia.org/wiki/Great_Wall_of_China
+Machu Picchu,-13.1631,-72.5450,images/r_machu.jpg,https://en.wikipedia.org/wiki/Machu_Picchu
+Christ the Redeemer,-22.9519,-43.2105,images/r_redemer.jpg,https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
+Petra,30.3285,35.4444,images/r_petra.jpg,https://en.wikipedia.org/wiki/Petra
+Chichén Itzá,20.6843,-88.5678,images/r_itza.jpg,https://en.wikipedia.org/wiki/Chichen_Itza
+Colosseum,41.8902,12.4922,images/r_colosessum.jpg,https://en.wikipedia.org/wiki/Colosseum
